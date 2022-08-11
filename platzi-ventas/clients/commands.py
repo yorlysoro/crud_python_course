@@ -1,6 +1,6 @@
 import click
 
-from clients.service import ClientService
+from clients.services import ClientService
 from clients.models import Client
 
 
